@@ -24,4 +24,4 @@ public class Patient {
         return "Patient{name='" + name + "', DOB=" + dob + ", severity=" + severity + ", arrivalTime=" + arrivalTime + "}";
     }
 }
-
+//

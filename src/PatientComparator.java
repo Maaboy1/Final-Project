@@ -12,4 +12,4 @@ public class PatientComparator implements Comparator<Patient> {
         return p1.getArrivalTime().compareTo(p2.getArrivalTime());
     }
 }
-
+//

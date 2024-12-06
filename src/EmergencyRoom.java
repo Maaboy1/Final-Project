@@ -17,4 +17,4 @@ public class EmergencyRoom {
         return patientQueue.remove();
     }
 }
-
+//
